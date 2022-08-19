@@ -9,11 +9,11 @@ Simple application written in Python useful for managing and ordering several SS
 
 ## Install global dependencies
     
-### Debian Based
-    apt install python3 sqlite libncurses5-dev libncursesw5-dev -y
+### Debian based
+    apt install python3 sqlite libncurses5-dev libncursesw5-dev sshpass -y
     
 ### Arch based
-    pacman -S python3 sqlite curses
+    pacman -S python3 sqlite ncurses sshpass
 
 ## Usage
 Clone this repository using
