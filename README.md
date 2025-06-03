@@ -10,7 +10,7 @@ Simple application written in Python useful for managing and ordering several SS
 ## Install global dependencies
     
 ### Debian based
-    apt install python3 sqlite libncurses5-dev libncursesw5-dev sshpass -y
+    apt install python3 sqlite3 libncurses5-dev libncursesw5-dev sshpass -y
     
 ### Arch based
     pacman -S python3 sqlite ncurses sshpass
